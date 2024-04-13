@@ -9,9 +9,9 @@ body{
     display: flex;
     flex-direction:row;
     flex-wrap: wrap;
-    justify-content: center;/* center the elements in main axis*/
+    justify-content: space-around;/* center the elements in main axis*/
     align-items: center;/*center the elements in cross axis*/
-    row-gap: 0px;
+    justify-items: center;
     align-content: center;
 }
 .box
@@ -24,8 +24,4 @@ body{
 .box1
 {
     flex-basis: 200px;
-}
-.box2
-{
-    flex-grow: 2;
 }
