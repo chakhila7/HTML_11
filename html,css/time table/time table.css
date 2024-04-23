@@ -1,7 +1,10 @@
 body{
-    background-color:rgb(115, 169, 14);
+    background-color:white;
 }
-.p
-{
-    color: blue;
+table{
+    text-align: center;
+    color: white;
+    border-color: white;
+    background-color: black;
 }
+
