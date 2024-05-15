@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../InterViewQA"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dummy"
+	}
+}
