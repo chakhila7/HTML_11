@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../InterViewQA"
+		},
+		{
+			"path": "../../crud"
 		}
 	],
 	"settings": {
